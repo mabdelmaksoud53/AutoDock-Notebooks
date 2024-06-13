@@ -10,7 +10,20 @@
 
 ---
 **Author**
-- This notebook is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53)) 
+- This notebook is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53))
+---
+
+
+<p>Follow Me</p> 
+<a href="https://www.facebook.com/your-facebook-page" style=" border: none; margin-right: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" height="30" style="border: none;">
+</a> <a href="https://www.researchgate.net/profile/your-researchgate-profile" style=" border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="30" height="30" style="border: none;"> </a> <a href="https://www.linkedin.com/in/your-linkedin-profile" style="text-decoration: none; border: none; margin-right: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" style="border: none;">
+</a> <a href="https://www.youtube.com/channel/your-youtube-channel" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="30" style="border: none;">
+</a>
+
 
 ---
 **Introduction**
