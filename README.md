@@ -2,7 +2,7 @@
 # **Free Palestine** <a> <img src="https://img.icons8.com/?size=100&id=56525&format=png&color=000000" align = center width="40" alt="Free Palestine">
 </a> 
 
-### This is a Jupyter notebook for running Molecular Docking using AutoDock Vina software. I encourage you to watch the tutorial below before using this pipeline. The main goal of this notebook is to demonstrate how to perform molecular docking using open-source software in a cheap yet feasible fashion 🚀.
+### This is a Jupyter notebook for running Molecular Docking using AutoDock Vina software. I encourage you to watch this [tutorial](https://youtu.be/xMXHnaEO-qk) before using this pipeline. The main goal of this notebook is to demonstrate how to perform molecular docking using open-source software in a cheap yet feasible fashion 🚀.
 
 ---
 **Bugs**
@@ -20,14 +20,14 @@
 </a> <a href="https://www.researchgate.net/profile/Mostafa-Abd-El-Maksoud" style=" border: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="30" height="30" style="border: none;"> </a> <a href="https://www.linkedin.com/in/mostafa-sayed-abd-elmaksoud/" style="text-decoration: none; border: none; margin-right: 10px; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" style="border: none;">
-</a> <a href="https://www.youtube.com/channel/your-youtube-channel" style="text-decoration: none; border: none; display: inline-block;">
+</a> <a href="https://www.youtube.com/@mabdelmaksoud" style="text-decoration: none; border: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="30" style="border: none;">
 </a>
 
 
 ---
 **Introduction**
-- AutoDock Vina is a widely used open-source docking engine known for its speed and efficiency. Developed by Dr. Oleg Trott in the Molecular Graphics Lab, it employs a straightforward scoring function and rapid gradient-based conformational search. The Forli Lab at The Scripps Research Institute maintains and develops this powerful tool.
+- AutoDock Vina is a widely used open-source docking engine known for its speed and efficiency. It employs a straightforward scoring function and rapid gradient-based conformational search. The Forli Lab at The Scripps Research Institute maintains and develops this powerful tool.
 
 ---
 **Citation**
