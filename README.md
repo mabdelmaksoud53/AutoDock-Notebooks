@@ -3,6 +3,10 @@
 </a> 
 
 ### This is a Jupyter notebook for running Molecular Docking using AutoDock Vina software. I encourage you to watch this [tutorial](https://youtu.be/xMXHnaEO-qk) before using this pipeline. The main goal of this notebook is to demonstrate how to perform molecular docking using open-source software in a cheap yet feasible fashion 🚀.
+---
+Use the appropriate software accoarding to your own methdology
+1. **AutoDock Vina** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](github/mabdelmaksoud53/VinaDock-Notebooks/VinaDock_Notebooks.ipynb)  - `Using AutoDock vina software`
+2. **AutoDock4.2** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/AD4_Notebook.ipynb) - `Using AutoGrid and AutoDock log files inputs`
 
 ---
 **Bugs**
