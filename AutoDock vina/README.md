@@ -5,7 +5,6 @@
 
 This is a Jupyter notebook for running Molecular Docking using AutoDock Vina software and Google colab GPUs. This repository is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53)) and I encourage you to watch this [tutorial](https://youtu.be/xMXHnaEO-qk) before using this pipeline.
 
----
 **Introduction**
 
 - Molecular docking plays a crucial role in drug discovery and computational biology by predicting the binding modes and affinities of small molecules to target proteins. AutoDock Vina is a widely used software for molecular docking due to its accuracy and efficiency in predicting ligand-protein interactions.
@@ -28,6 +27,7 @@ Finally, By integrating AutoDock Vina with Google Colab, you can streamline your
 
 
 ---
+**Run the vina notebook**
 **AutoDock Vina** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/VinaDock_Notebooks.ipynb)  - `Using AutoDock vina software`
 
 ---
@@ -35,7 +35,10 @@ Finally, By integrating AutoDock Vina with Google Colab, you can streamline your
 - If you encounter any bugs, please report the issue to https://github.com/mabdelmaksoud53/VinaDock-Notebooks/issues
 
 ---
+**Citation**
+[O. Trott and A. J. Olson. (2010). AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. Journal of computational chemistry, 31(2), 455-461.](https://onlinelibrary.wiley.com/doi/10.1002/jcc.21334)
 
+---
 ## Follow Me
 
 [![ResearchGate](https://img.shields.io/badge/Follow%20me%20on-ResearchGate-00A98F?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mostafa-Abd-El-Maksoud)
