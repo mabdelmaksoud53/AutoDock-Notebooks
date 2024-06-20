@@ -3,14 +3,13 @@
 </a> 
 
 ## Hello there!
-This is a repository where you can find Jupyter Notebook scripts for running Molecular Docking Google Colab. This repository is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53)) and I encourage you to read the instructions and watch the tutorial before using this pipeline.
-
-The main goal of this work is to demonstrate how to do molecular docking using open-source software in a cheap yet feasible fashion 🚀.
+This is a repository where you can find Jupyter Notebook scripts for running Molecular Docking using Google Colab. This repository is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53)) and I encourage you to read the instructions and watch the tutorials before using this pipeline.
+The main goal of this work is to demonstrate how to perform molecular docking using open-source software in a cheap yet feasible fashion 🚀.
 ---
 
 ---
 **Introduction**
-- Molecular docking is a computational technique that predicts the preferred orientation of one molecule (such as a drug candidate) to a second molecule (such as a protein receptor) when they bind to form a stable complex. This method is extensively used in drug discovery and development to model the interaction between small molecules and their biological targets, providing insights into potential drug compounds' binding affinity and activity.
+- Molecular docking is a computational technique that predicts the preferred orientation of a molecule (such as a drug candidate) to a second molecule (such as a protein receptor) when they bind to form a stable complex. This method is extensively used in drug discovery and development to model the interaction between small molecules and their biological targets, providing insights into potential drug compounds' binding affinity and activity.
 
 **Using Molecular Docking on Google Colab**
 
