@@ -27,8 +27,8 @@ Finally, By integrating AutoDock Vina with Google Colab, you can streamline your
 
 
 ---
-**Run the vina notebook**
-**AutoDock Vina** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/VinaDock_Notebooks.ipynb)  - `Using AutoDock vina software`
+
+**Run AutoDock Vina Notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/VinaDock_Notebooks.ipynb)  - `Using AutoDock vina software`
 
 ---
 **Bugs**
