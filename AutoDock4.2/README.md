@@ -1,41 +1,42 @@
-# **Cloud-based molecular docking for everyone** 
-# **Free Palestine** <a> <img src="https://img.icons8.com/?size=100&id=56525&format=png&color=000000" align = center width="40" alt="Free Palestine">
-</a> 
+# **Cloud-based molecular docking using AutoDock4.2 software** 
 
 
 ## Hello there!
 
-This is a repository where you can find Jupyter Notebook scripts for running Molecular Docking using Google Colab. This repository is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53)) and I encourage you to read the instructions and watch the tutorials before using this pipeline.
-The main goal of this work is to demonstrate how to perform molecular docking using open-source software in a cheap yet feasible fashion 🚀.
+This is a Jupyter notebook for running Molecular Docking using AutoDock4.2 software and Google colab GPUs. This repository is created by ([**Mostafa S. Abd El-Maksoud**](https://github.com/mabdelmaksoud53)) and I encourage you to watch this [tutorial](https://youtu.be/xMXHnaEO-qk) before using this pipeline.
 
----
 **Introduction**
-- Molecular docking is a computational technique that predicts the preferred orientation of a molecule (such as a drug candidate) to a second molecule (such as a protein receptor) when they bind to form a stable complex. This method is extensively used in drug discovery and development to model the interaction between small molecules and their biological targets, providing insights into potential drug compounds' binding affinity and activity.
 
-**Using Molecular Docking on Google Colab**
+- Molecular docking is a computational technique used in drug discovery and structural biology to predict the binding mode and affinity of small molecules with a target protein. AutoDock 4.2 is a popular tool for molecular docking that employs a Lamarckian genetic algorithm to explore ligand conformations and optimize binding interactions.
 
-Google Colab is a cloud-based platform that provides a powerful and flexible environment for running computational tasks, including molecular docking. Leveraging Google Colab for molecular docking offers several advantages:
+- AutoDock 4.2 utilizes scoring functions to estimate the binding energy between a ligand and a protein receptor, helping researchers identify potential drug candidates and understand molecular recognition processes. The docking process involves preparing the receptor and ligand structures, defining search parameters, running docking simulations, and analyzing the results to identify favorable binding poses. 
 
-- Google Colab provides access to free GPUs and TPUs, which can significantly speed up computations without needing expensive hardware.
-- Being cloud-based, Colab eliminates the need for local installations and hardware maintenance.
-- Users can easily install additional software and dependencies via simple terminal commands in Colab notebooks.
-- Multiple users can work on the same notebook simultaneously, making collaborating on projects and sharing results easy.
-- You can store input files and results directly in Google Drive, ensuring easy access and management.
-- Sharing data and results with collaborators is straightforward using Google Drive.
-- The workflows can be shared and rerun by others, ensuring the reproducibility of the computational experiments.
-- Users can leverage Colab’s computational power to run multiple docking simulations in parallel, enhancing throughput and efficiency.
+**workflows**
+
+1.  Install AutoDock 4.2 and its dependencies. Using shell commands within the notebook to install the software and configure the environment.
+
+2. Upload your receptor and ligand files (in PDBQT format) to Google Drive or directly to the Colab environment. Organize your files in a structured manner for easy access during the docking process.
+
+3. Use your local machine to generate input files required for AutoDock 4.2, including the receptor and ligand files, grid parameter file (GPF), and docking parameter file (DPF).
+
+4. Execute both AutoGrid and AutoDock to generate the grid log files (GLF), and docking log file (DLF). docking runs.
+
+- By integrating AutoDock 4.2 with Google Colab, you can leverage cloud computing resources to accelerate molecular docking experiments and optimize parameter exploration for drug discovery and protein-ligand interaction studies.
 
 ---
-**Use the appropriate software according to your methodology**
-1. **AutoDock Vina** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/VinaDock_Notebooks.ipynb)  - `Using AutoDock vina software`
-2. **AutoDock4.2** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/AD4_Notebook.ipynb) - `Using AutoGrid and AutoDock log files inputs`
+
+**Run AutoDock4.2 Notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/AD4_Notebook.ipynb) - `Using AutoGrid and AutoDock log files inputs`
 
 ---
 **Bugs**
 - If you encounter any bugs, please report the issue to https://github.com/mabdelmaksoud53/VinaDock-Notebooks/issues
 
 ---
+**Citation**
 
+[Morris, G. M., Huey, R., Lindstrom, W., Sanner, M. F., Belew, R. K., Goodsell, D. S. and Olson, A. J. (2009) Autodock4 and AutoDockTools4: automated docking with selective receptor flexiblity. J. Computational Chemistry 2009, 16: 2785-91.](https://doi.org/10.1002%2Fjcc.21256)
+
+---
 ## Follow Me
 
 [![ResearchGate](https://img.shields.io/badge/Follow%20me%20on-ResearchGate-00A98F?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mostafa-Abd-El-Maksoud)
