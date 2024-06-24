@@ -33,11 +33,11 @@ The main goal of this work is to demonstrate how to perform molecular docking us
 ---
 
 **Use the appropriate software according to your methodology**
-1. **AutoDock Vina** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/Autodock_vina.ipynb])  - `Using AutoDock vina software`
-2. **AutoDock4.2** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/AD4_Notebook.ipynb](https://colab.research.google.com/github/mabdelmaksoud53/VinaDock-Notebooks/blob/main/AutoDock4_2.ipynb)) - `Using AutoGrid and AutoDock files inputs`
-3.  **Virtual csreening** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mabdelmaksoud53/AutoDock-Notebooks/blob/main/Virtual%20Screening/Multiple_ligand_docking.ipynb) - `Using AutoDock Vina for multiple ligands docking`
+1. **AutoDock Vina** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/AutoDock-Notebooks/blob/main/AutoDock%20vina/Autodock_vina.ipynb) - `Using AutoDock vina software`
+2. **Virtual screening** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/AutoDock-Notebooks/blob/main/Virtual%20Screening/Multiple_ligand_docking.ipynb) - `Using AutoDock Vina for multiple ligands docking`
+3. 1. **AutoDock4.2** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/AutoDock-Notebooks/blob/main/AutoDock4.2/AutoDock4.ipynb) - `Using AutoGrid and AutoDock files inputs`
 
-
+  
 ---
 ## License
 Copyright (c) 2024 [Mostafa S. Abd El-Maksoud](https://github.com/mabdelmaksoud53)
