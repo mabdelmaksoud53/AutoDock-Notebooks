@@ -14,7 +14,7 @@ The main goal of this work is to demonstrate how to perform molecular docking us
 > [!IMPORTANT]
 > - Don't  `Run all` cells at the beginning. Run the cells individually and wait for the session to restart.
 > - This notebook is designed for `Google Colab` and may not work on `other platforms`.
-> - This notebook provides a simple pipeline for illustrating Molecular Docking and `doesn't necessarily reflect the standard protocol`.
+> - This notebooks provide a simple pipeline for illustrating Molecular Docking and `doesn't necessarily reflect the standard protocol`.
 > - Don't forget to `save a copy from this notebook` in your drive before starting.
 
 
